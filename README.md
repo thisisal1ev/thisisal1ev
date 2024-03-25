@@ -19,13 +19,13 @@ Frontend dasturchi
 ## Sahifalar
 
 <p align="left">
-<a href="https://fb.com/muhammadjavohir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadilloaliyev" height="30" width="40" /></a>
 <a href="https://instagram.com/thisisal1ev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadilloaliyev" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadjavohir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadilloaliyev" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisal1ev&show_icons=true&locale=en&layout=compact" alt="ahmadilloaliyev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisal1ev&show_icons=true&locale=en" alt="thisisal1ev" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisal1ev&show_icons=true&locale=en&layout=compact" alt="ahmadilloaliyev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisal1ev&" alt="thisisal1ev" /></p>
