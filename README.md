@@ -1,6 +1,6 @@
 # Ahmadillo Aliyev
 
-Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
+Frontend dasturchi
 
 [💬 Telegram](https://t.me/thisisal1ev) | 📧 aaalievvv1@gmail.com
 
