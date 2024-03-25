@@ -26,6 +26,6 @@ Frontend dasturchi
 ## GitHub statistikasi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisal1ev&show_icons=true&locale=en" alt="thisisal1ev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisal1ev&show_icons=true&locale=en&layout=compact" alt="ahmadilloaliyev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisal1ev&" alt="thisisal1ev" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisal1ev&show_icons=true&locale=en&layout=compact" alt="ahmadilloaliyev" /></p>
