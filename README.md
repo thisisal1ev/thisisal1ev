@@ -1,4 +1,4 @@
-# Ahmadillo Aliyev
+# Axmadillo Aliyev
 
 Frontend dasturchi
 
